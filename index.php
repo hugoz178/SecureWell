@@ -1,6 +1,4 @@
 <?php
-//Aquí se realiza el index, así como el registro de la aplicación
-//Se realiza la comprobación de si hay sesión iniciada o no y en caso de que haya se mostrará un index diferente
 include'nav.php';
 include'conexion.php';
 if (isset($_SESSION['correo'])) {
