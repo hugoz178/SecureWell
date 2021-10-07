@@ -44,7 +44,7 @@
   include 'boot.php'; 
   ?>
 
-<!--Se elimino el style-->
+
 <body>
 
   
@@ -98,6 +98,10 @@
           </div>
         </div>
       </div>
+
+
+<img src="https://images.pexels.com/photos/132657/pexels-photo-132657.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" class="img-fluid" alt="Imagen principal de automovil"/>
+
 
       <div class=".col-sm-1" ></div>
 
