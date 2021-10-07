@@ -43,7 +43,9 @@
   include 'nav.php';
   include 'boot.php'; 
   ?>
-<body style="overflow-x:hidden">
+
+<!--Se elimino el style-->
+<body>
 
   
   <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
