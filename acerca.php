@@ -43,7 +43,9 @@
   include 'nav.php';
   include 'boot.php'; 
   ?>
-<body style="overflow-x:hidden">
+
+
+<body>
 
   
   <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
@@ -96,6 +98,10 @@
           </div>
         </div>
       </div>
+
+
+<img src="https://images.pexels.com/photos/132657/pexels-photo-132657.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" class="img-fluid" alt="Imagen principal de automovil"/>
+
 
       <div class=".col-sm-1" ></div>
 
